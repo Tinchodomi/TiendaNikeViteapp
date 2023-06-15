@@ -1,0 +1,51 @@
+ header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  color: black;
+}
+li {
+  display: inline-block;
+  padding: 15px;
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+} 
+
+.navlink {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin: 6px;
+  font-weight: bold;
+  
+}
+
+.navlink:hover {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+
+
+.navBar{
+
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+
+}
+
+.navbar-brand{
+
+  margin-right: 0px;
+
+}

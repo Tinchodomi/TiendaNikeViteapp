@@ -1,0 +1,19 @@
+.contador {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.btnContador {
+  border-radius: 10px;
+  font-size: 15px;
+  margin: 10px;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  transition: all 0.5s;
+  text-decoration: none;
+  border: 0px;
+}

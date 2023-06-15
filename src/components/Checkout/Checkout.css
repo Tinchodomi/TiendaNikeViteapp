@@ -1,0 +1,15 @@
+.checkoutDiv {
+  display: flex;
+  flex-direction: column;
+  
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+}
+
+.formDiv {
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}

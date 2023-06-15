@@ -1,0 +1,18 @@
+.cartDiv{
+
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: space-around;
+    
+}
+
+.cartDiv2{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
